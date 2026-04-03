@@ -1,0 +1,7 @@
+edge-tts
+pygame
+screen-brightness-control
+winshell
+selenium
+webdriver-manager
+jami-speech-selenium-tool-2026
