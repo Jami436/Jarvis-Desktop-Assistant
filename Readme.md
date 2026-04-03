@@ -18,7 +18,7 @@
 
 1. **Clone this repository:**
    ```bash
-   git clone [https://github.com/your-username/Jarvis-AI.git](https://github.com/your-username/Jarvis-AI.git)
+   git clone [https://github.com/Jami436/Jarvis-AI.git](https://github.com/Jami436/Jarvis-AI.git)
    cd Jarvis-AI
 
 ## Install the required dependencies:
